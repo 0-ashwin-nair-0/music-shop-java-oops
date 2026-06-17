@@ -204,14 +204,4 @@ java MusicShop
 
 ---
 
-## 👨‍💻 Author
-
-**Codex**
-
-Computer Science Student | Java Developer | Spring Boot Learner
-
-Passionate about building scalable software solutions and mastering backend development with Java technologies.
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
