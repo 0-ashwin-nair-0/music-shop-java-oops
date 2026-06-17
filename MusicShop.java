@@ -1,5 +1,3 @@
-import com.sun.tools.javac.Main;
-
 abstract class Instrument {
     private String name;
     protected int year;
